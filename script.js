@@ -16,7 +16,7 @@ function setGradient() {
 }
 
 window.onload = (Event) => {
-    css.textContent = body.style.background + "linear-gradient(to right, red, yellow);";
+    css.textContent = body.style.background + "linear-gradient(to right, red, yeloow);";
 }
 
 
